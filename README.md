@@ -10,7 +10,4 @@ development commando: `npm start`.
 ## WEB
 
 build commando voor Android: `cordova build android`.
-build commando voor IOS: `cordova build ios`
-
-
-# BAP
+build commando voor IOS: `cordova build ios`.
